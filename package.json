@@ -1,0 +1,23 @@
+{
+  "name": "upsidedown",
+  "version": "0.0.1",
+  "description": "A module for transforming text upside down",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Maciek416/upsidedown.git"
+  },
+  "keywords": [
+    "text",
+    "upsidedown",
+    "unicode"
+  ],
+  "author": "Maciej Adwent (http://github.com/Maciek416)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/Maciek416/upsidedown/issues"
+  }
+}
