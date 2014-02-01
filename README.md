@@ -13,4 +13,6 @@ usage
 var upsidedown = require('upsidedown');
 console.log(upsidedown('Hello world'));
 
+// output: 'plɹoʍ ollǝH'
+
 ```
