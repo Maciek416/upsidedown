@@ -1,9 +1,10 @@
 {
   "name": "upsidedown",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A module for transforming text upside down",
   "main": "index.js",
   "private": false,
+  "author": "Maciej Adwent (http://github.com/Maciek416)",
   "scripts": {
   },
   "repository": {
@@ -15,7 +16,16 @@
     "upsidedown",
     "unicode"
   ],
-  "author": "Maciej Adwent (http://github.com/Maciek416)",
+  "contributors": [
+    {
+      "name": "Maciej Adwent (http://github.com/Maciek416)"
+    },
+    {
+      "name": "Paul Kalupnieks",
+      "email": "paul@karrupa.com",
+      "url": "http://github.com/kalupa"
+    }
+  ],
   "license": "BSD",
   "bugs": {
     "url": "https://github.com/Maciek416/upsidedown/issues"
