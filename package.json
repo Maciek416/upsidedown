@@ -1,6 +1,6 @@
 {
   "name": "upsidedown",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A module for transforming text upside down",
   "main": "index.js",
   "private": false,
